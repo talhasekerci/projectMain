@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 let isActive = false; // Quiz'in aktif olup olmadığını belirleyen değişken
 
 // "Başlat" butonuna tıklandığında quiz'i başlatmak için event listener ekleme
