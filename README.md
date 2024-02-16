@@ -2,20 +2,20 @@
 
 Bu proje, bir Figma tasarım dosyasını alarak, Tailwind CSS veya Bootstrap gibi bir CSS framework kullanarak responsive bir web arayüzü oluşturmayı hedeflemektedir. Ayrıca, dinamik tasarım özelliklerini de içerecek şekilde, ileri-geri butonları gibi elementlerin kaydırılmasını sağlamak gibi ek özellikler de projeye dahil edilecektir.
 
-## Proje Hedefleri
+### Proje Hedefleri
 
 - Figma tasarım dosyasından alınan arayüz tasarımını HTML ve CSS kullanarak kodlamak.
 - Tasarımın responsive olmasını sağlamak, yani farklı ekran boyutlarına uyumlu olacak şekilde düzenlemeler yapmak.
 - Dinamik özellikler eklemek, örneğin ileri-geri butonlarıyla elementlerin kaydırılmasını sağlamak gibi.
 
-## Kullanılan Araçlar ve Teknolojiler
+### Kullanılan Araçlar ve Teknolojiler
 
 - **Figma**: Tasarım dosyasının oluşturulması ve tasarım detaylarının belirlenmesi için kullanılmıştır.
 - **Tailwind CSS veya Bootstrap**: Responsive web tasarımı için kullanılacak CSS framework'ü.
 - **HTML ve CSS**: Arayüz tasarımının kodlanması için kullanılacak temel teknolojiler.
 - **JavaScript**: Dinamik özelliklerin eklenmesi ve kullanıcı etkileşimlerinin yönetilmesi için kullanılacak.
 
-## Projenin Aşamaları
+### Projenin Aşamaları
 
 1. **Tasarımın Analizi**: Figma tasarım dosyasının detaylı bir şekilde incelenmesi ve responsive olarak nasıl kodlanabileceğine dair planın oluşturulması.
 2. **Framework Seçimi**: Tailwind CSS veya Bootstrap gibi bir CSS framework'ünün seçilmesi ve projenin bu framework üzerinde nasıl oluşturulacağının belirlenmesi.
@@ -23,9 +23,12 @@ Bu proje, bir Figma tasarım dosyasını alarak, Tailwind CSS veya Bootstrap gib
 4. **JavaScript Entegrasyonu**: Dinamik özelliklerin eklenmesi, ileri-geri butonlarıyla elementlerin kaydırılmasının sağlanması.
 5. **Test ve Düzeltme**: Oluşturulan arayüzün farklı cihazlarda test edilmesi ve gerektiğinde düzeltmelerin yapılması.
 
-## Ekran Görüntüleri
-![Quiz Uygulaması](https://github.com/talha3755/QuizApp/blob/main/Foto%C4%9Fraflar/1.png)
-![Quiz Uygulaması](https://github.com/talha3755/QuizApp/blob/main/Foto%C4%9Fraflar/2.png)
+### Ekran Görüntüleri
+![Quiz Uygulaması](https://github.com/talha3755/FrontendProject/blob/main/Foto%C4%9Fraflar/4.png)
+![Quiz Uygulaması](https://github.com/talha3755/FrontendProject/blob/main/Foto%C4%9Fraflar/5.png)
+
+
+
 
 
 
@@ -47,9 +50,9 @@ Bu proje, JavaScript kullanılarak geliştirilmiş bir quiz uygulamasını içer
 Uygulamanın arayüzü, kullanıcı dostu ve görsel açıdan çekici bir şekilde tasarlanmıştır. Soruların altında, kullanıcıların süreyi görmelerini sağlayan bir süre göstergesi bulunur. Süre azaldıkça, yeşil bir çubuk giderek küçülür, kullanıcıya kalan süreyi gösterir.
 
 ## Ekran Görüntüleri
-![Quiz Uygulaması](https://github.com/talha3755/QuizApp/blob/main/Foto%C4%9Fraflar/1.png)
-![Quiz Uygulaması](https://github.com/talha3755/QuizApp/blob/main/Foto%C4%9Fraflar/2.png)
-![Quiz Uygulaması](https://github.com/talha3755/QuizApp/blob/main/Foto%C4%9Fraflar/3.png)
+![Quiz Uygulaması](https://github.com/talha3755/FrontendProject/blob/main/Foto%C4%9Fraflar/1.png)
+![Quiz Uygulaması](https://github.com/talha3755/FrontendProject/blob/main/Foto%C4%9Fraflar/2.png)
+![Quiz Uygulaması](https://github.com/talha3755/FrontendProject/blob/main/Foto%C4%9Fraflar/3.png)
 Bu ekran görüntüsü, uygulamanın nasıl göründüğünü göstermektedir.
 
 Proje, JavaScript, HTML ve CSS kullanılarak geliştirilmiştir. İhtiyaçlarınıza ve tercihlerinize göre, arayüzü dilediğiniz gibi özelleştirebilirsiniz.
