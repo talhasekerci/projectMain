@@ -45,6 +45,7 @@ Bu proje, JavaScript kullanılarak geliştirilmiş bir quiz uygulamasını içer
 - Geçmiş sorulara dönülemez. Kullanıcılar, yalnızca ileri yönde gezinebilirler.
 - Test tamamlandığında, her soruya verilen yanıtlar bir tablo olarak gösterilir.
 
+
 ## Arayüz
 
 Uygulamanın arayüzü, kullanıcı dostu ve görsel açıdan çekici bir şekilde tasarlanmıştır. Soruların altında, kullanıcıların süreyi görmelerini sağlayan bir süre göstergesi bulunur. Süre azaldıkça, yeşil bir çubuk giderek küçülür, kullanıcıya kalan süreyi gösterir.
