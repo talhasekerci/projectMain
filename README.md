@@ -24,8 +24,8 @@ Bu proje, bir Figma tasarım dosyasını alarak, Tailwind CSS veya Bootstrap gib
 5. **Test ve Düzeltme**: Oluşturulan arayüzün farklı cihazlarda test edilmesi ve gerektiğinde düzeltmelerin yapılması.
 
 ### Ekran Görüntüleri
-![Quiz Uygulaması](https://github.com/talha3755/FrontendProject/blob/main/Foto%C4%9Fraflar/4.png)
-![Quiz Uygulaması](https://github.com/talha3755/FrontendProject/blob/main/Foto%C4%9Fraflar/5.png)
+![Quiz Uygulaması](./Fotoğraflar/1.png)
+![Quiz Uygulaması](./Fotoğraflar/2.png)
 
 
 
@@ -50,9 +50,9 @@ Bu proje, JavaScript kullanılarak geliştirilmiş bir quiz uygulamasını içer
 Uygulamanın arayüzü, kullanıcı dostu ve görsel açıdan çekici bir şekilde tasarlanmıştır. Soruların altında, kullanıcıların süreyi görmelerini sağlayan bir süre göstergesi bulunur. Süre azaldıkça, yeşil bir çubuk giderek küçülür, kullanıcıya kalan süreyi gösterir.
 
 ## Ekran Görüntüleri
-![Quiz Uygulaması](https://github.com/talha3755/FrontendProject/blob/main/Foto%C4%9Fraflar/1.png)
-![Quiz Uygulaması](https://github.com/talha3755/FrontendProject/blob/main/Foto%C4%9Fraflar/2.png)
-![Quiz Uygulaması](https://github.com/talha3755/FrontendProject/blob/main/Foto%C4%9Fraflar/3.png)
+![Quiz Uygulaması](./Fotoğraflar/3.png)
+![Quiz Uygulaması](./Fotoğraflar/4.png)
+![Quiz Uygulaması](./Fotoğraflar/5.png)
 Bu ekran görüntüsü, uygulamanın nasıl göründüğünü göstermektedir.
 
 Proje, JavaScript, HTML ve CSS kullanılarak geliştirilmiştir. İhtiyaçlarınıza ve tercihlerinize göre, arayüzü dilediğiniz gibi özelleştirebilirsiniz.
