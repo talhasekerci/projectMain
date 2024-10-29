@@ -53,7 +53,3 @@ Uygulamanın arayüzü, kullanıcı dostu ve görsel açıdan çekici bir şekil
 ![Quiz Uygulaması](./Fotoğraflar/3.png)
 ![Quiz Uygulaması](./Fotoğraflar/4.png)
 ![Quiz Uygulaması](./Fotoğraflar/5.png)
-Bu ekran görüntüsü, uygulamanın nasıl göründüğünü göstermektedir.
-
-Proje, JavaScript, HTML ve CSS kullanılarak geliştirilmiştir. İhtiyaçlarınıza ve tercihlerinize göre, arayüzü dilediğiniz gibi özelleştirebilirsiniz.
-
